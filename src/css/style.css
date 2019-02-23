@@ -102,5 +102,10 @@ img {
     max-width: 320px;
     width: 90%;
   }
+  .button 
+  {
+    font-size: 10px;
+    padding: 14px 24px;
+  }
 }  
 /*# sourceMappingURL=style.css.map */
