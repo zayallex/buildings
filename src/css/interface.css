@@ -1,0 +1,10 @@
+body {
+  font-family: sans-serif;
+  width: 1170px;
+  margin: auto;
+}
+
+body .button {
+  border-radius: 10px;
+}
+/*# sourceMappingURL=interface.css.map */
